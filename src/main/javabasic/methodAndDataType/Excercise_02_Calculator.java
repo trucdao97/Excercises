@@ -1,4 +1,6 @@
-public class Excercise_02 {
+package methodAndDataType;
+
+public class Excercise_02_Calculator {
     public static void total2Numbers(int number1, int number2) {
         System.out.println("Total of 2 numbers = " + (number1 + number2));
     }

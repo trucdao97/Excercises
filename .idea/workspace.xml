@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0854697-0378-4b1a-b880-c31b8f9dedac" name="Changes" comment="">
+    <list default="true" id="f0854697-0378-4b1a-b880-c31b8f9dedac" name="Changes" comment="Excercise 02 and 03">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/javabasic/forLoopAndArray/Excercise_04_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/javabasic/operatorToanTu/Excercise_03_IF_ELSE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/javabasic/operatorToanTu/Excercise_03_ThucHienToanTu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/javabasic/Excercise_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javabasic/methodAndDataType/Excercise_02_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/javabasic/Excercise_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/javabasic/Excercise_04.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Excercises",
     "project.structure.last.edited": "Project",
@@ -42,16 +52,16 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Excercise_03">
-    <configuration name="Excercise_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excercise_02" />
+  <component name="RunManager" selected="Application.Excercise_03_ThucHienToanTu">
+    <configuration name="Excercise_02_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodAndDataType.Excercise_02_Calculator" />
       <module name="Excercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excercise_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excercise_03" />
+    <configuration name="Excercise_03_ThucHienToanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operatorToanTu.Excercise_03_ThucHienToanTu" />
       <module name="Excercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,8 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Excercise_03" />
-        <item itemvalue="Application.Excercise_02" />
+        <item itemvalue="Application.Excercise_03_ThucHienToanTu" />
+        <item itemvalue="Application.Excercise_02_Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -85,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Excercise 02 and 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excercise 02 and 03" />
   </component>
 </project>
