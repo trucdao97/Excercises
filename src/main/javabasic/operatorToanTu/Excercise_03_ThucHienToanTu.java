@@ -5,9 +5,9 @@ public class Excercise_03_ThucHienToanTu {
     public static void toanTu(String userName, String passWord) {
         String messageLoginSuccessful = "Congratulation! Log in successfully!";
         String messageLoginFail = "Your account or password is wrong.";
-        if (userName == passWord) {
+        if (userName.equals(passWord)) {
             System.out.println("The username and password are same! Please change to be different");
-        } else if (userName != passWord && userName.length() > 3) {
+        } else if (!userName.equals(passWord) && userName.length() > 3) {
             System.out.println(messageLoginSuccessful);
         } else {
             System.out.println(messageLoginFail);
