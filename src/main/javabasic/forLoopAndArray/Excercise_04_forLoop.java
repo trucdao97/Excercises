@@ -13,8 +13,8 @@ public class Excercise_04_forLoop {
         }
 
         //Duyệt mảng để in ra kết quả sau khi nạp vào
-        for (int a = 0; a < array.length; a++) {
-            System.out.println("Cac so chan: " + array[a]);
+        for (int j : array) {
+            System.out.println("Cac so chan: " + j);
         }
     }
 }
