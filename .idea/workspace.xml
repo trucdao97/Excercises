@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0854697-0378-4b1a-b880-c31b8f9dedac" name="Changes" comment="Excercise 02 and 03">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/javabasic/forLoopAndArray/Excercise_04_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/javabasic/operatorToanTu/Excercise_03_IF_ELSE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/javabasic/operatorToanTu/Excercise_03_ThucHienToanTu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f0854697-0378-4b1a-b880-c31b8f9dedac" name="Changes" comment="Excercise 04: simple for loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/javabasic/Excercise_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javabasic/methodAndDataType/Excercise_02_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/javabasic/Excercise_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/javabasic/Excercise_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/javabasic/forLoopAndArray/Excercise_04_forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javabasic/forLoopAndArray/Excercise_04_forLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +33,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Excercises",
+    "last_opened_file_path": "C:/Users/abc_i/Desktop/AUTOMATION TEST/Excercises",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Excercise_03_ThucHienToanTu">
+  <component name="RunManager" selected="Application.Excercise_04_forLoop">
     <configuration name="Excercise_02_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methodAndDataType.Excercise_02_Calculator" />
       <module name="Excercises" />
@@ -67,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Excercise_04_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forLoopAndArray.Excercise_04_forLoop" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forLoopAndArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Excercise_04_forLoop" />
         <item itemvalue="Application.Excercise_03_ThucHienToanTu" />
         <item itemvalue="Application.Excercise_02_Calculator" />
       </list>
@@ -83,6 +93,31 @@
       <option name="presentableId" value="Default" />
       <updated>1723387678555</updated>
     </task>
+    <task id="LOCAL-00001" summary="Excercise 02 and 03">
+      <option name="closed" value="true" />
+      <created>1723960868517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723960868517</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Excercise 03">
+      <option name="closed" value="true" />
+      <created>1723979168877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723979168877</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Excercise 04: simple for loop">
+      <option name="closed" value="true" />
+      <created>1723981014187</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723981014187</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +133,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Excercise 02 and 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Excercise 02 and 03" />
+    <MESSAGE value="Excercise 03" />
+    <MESSAGE value="Excercise 04: simple for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excercise 04: simple for loop" />
   </component>
 </project>
